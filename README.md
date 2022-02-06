@@ -1,5 +1,5 @@
-- 👋 Hi, Hossein Askari
-- 👀 I’m interested in Python programming. I'd like to be a pro in python
+- 👋 Hi, I am Hossein Askari.
+- 👀 I’m interested in Python programming. I'd like to be a pro in python.
 - @  This is my gmail's address --> << hosseinaskari.py@gmail.com >>
 
 <!---
